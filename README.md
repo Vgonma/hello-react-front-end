@@ -6,7 +6,6 @@
 - [📖 About the Project](#about-project)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Live Demo](#demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -47,12 +46,6 @@ To check the Rails Api repo click [here](https://github.com/Vgonma/hello-rails-b
 - App uses Redux to fetch data from the Rails api.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Live Demo <a name="demo"></a>
-- Check out the [live demo]() Comming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
